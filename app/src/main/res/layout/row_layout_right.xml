@@ -9,9 +9,12 @@
         android:id="@+id/recyclerViewTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
         android:text="Test"
         android:textAlignment="textEnd"
-        android:textColor="@color/purple_700"
-        android:textSize="20sp"></TextView>
+        android:background="#774df2"
+        android:layout_margin="10dp"
+        android:textColor="#C0C0C0"
+        android:textSize="20sp">
+
+    </TextView>
 </LinearLayout>

@@ -11,8 +11,9 @@
         android:layout_height="wrap_content"
         android:text="Test"
         android:textSize="20sp"
+        android:background="#eef1f6"
         android:layout_margin="10dp"
-        android:textColor="@color/purple_700"
+        android:textColor="#2B2929"
         >
     </TextView>
 </LinearLayout>
